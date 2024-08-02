@@ -1,0 +1,130 @@
+{
+    "personal_details": {
+      "name": "Rohan Nagwade",
+      "email": "rohannagwade10@gmail.com",
+      "phone": "+91 9665388821",
+      "linkedin": "https://www.linkedin.com/in/rohan-nagwade-78ab24218/",
+      "leetcode": "https://leetcode.com/u/Rohan_Nagwade"
+    },
+    "summary": "Targeting Technical roles with an organization of high repute with a scope of improving knowledge and further career growth.",
+    "technical_skills": {
+      "languages_frameworks": [
+        "C++",
+        "Python",
+        "Numpy",
+        "Pandas",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ReactJs",
+        "C#",
+        "NodeJs",
+        "Swagger"
+      ],
+      "developer_tools": [
+        "Git",
+        "GitHub",
+        "VsCode",
+        "Jupyter Lab",
+        "CircleCi",
+        "Docker"
+      ],
+      "concepts": [
+        "Agile Methodologies",
+        "Software Development Life Cycle",
+        "Restful API",
+        "Debugging",
+        "Containerization",
+        "Web Services",
+        "Data Structures & Algorithms",
+        "Performance Optimization",
+        "System Scalability"
+      ]
+    },
+    "work_experience": [
+      {
+        "company": "Sciqus Infotech Private Limited",
+        "position": "Trainee Software Engineer",
+        "location": "Pune, India",
+        "responsibilities": [
+          "Developed multiple ASP.NET Core Web APIs and seamlessly integrated them into React.js-powered frontends.",
+          "Utilized a clean MVC code structure, MySql Database and efficient state management, the applications guarantee a responsive and professional user experience."
+        ]
+      }
+    ],
+    "academic_projects": [
+      {
+        "name": "Football Analysis System",
+        "date": "July 2024",
+        "tools": ["Python", "YOLO", "OpenCv"],
+        "summary": "Developed an advanced Football Analysis system that processes live football video streams to detect players, calculate ball possession, and measure player speed.",
+        "responsibilities": [
+          "Trained a sophisticated dataset with YOLO to detect and identify players on the field, excluding those on the sidelines.",
+          "Utilized K-means clustering to classify players into two teams based on jersey color, ensuring accurate team identification.",
+          "Implemented a dynamic red tracker to highlight the player in possession of the ball, enabling precise calculation of ball possession for each team."
+        ]
+      },
+      {
+        "name": "Movie Recommendation System",
+        "date": "June 2024",
+        "tools": ["Python", "Jupyter lab"],
+        "summary": "Developed a movie recommendation system that suggests movies based on user ratings and genres, providing personalized recommendations tailored to individual preferences.",
+        "responsibilities": [
+          "Designed and implemented a movie recommendation system using both content-based filtering and collaborative filtering approaches.",
+          "The collaborative filtering approach processes a matrix of user ratings through the k-nearest neighbors algorithm to generate an array of movies most similar to the user's preferences.",
+          "The content-based filtering approach analyzes movie genres to create a cosine similarity matrix, which compares movies based on their genres and provides recommendations based on similarity."
+        ]
+      },
+      {
+        "name": "CI/CD Pipeline",
+        "date": "November 2023",
+        "tools": ["HTML", "CSS", "JS", "Git", "Netlify", "CircleCI"],
+        "summary": "Implemented a CI/CD pipeline using GitHub, CircleCI, and Netlify.",
+        "responsibilities": [
+          "Implemented automated code builds and testing using CircleCI, enhancing the development process by ensuring seamless and reliable updates.",
+          "Deployed applications on Netlify, optimizing production development for efficiency.",
+          "Ensured continuous integration, which minimized manual intervention, improved code quality, and accelerated deployment speed."
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Machine Learning Specialization by Stanford University and Deeplearning.Ai",
+        "date": "July 2024"
+      },
+      {
+        "name": "The Complete 2023 Web Development Boot Camp",
+        "date": "May 2023"
+      },
+      {
+        "name": "Mastering Data Structures & Algorithms using C and C++",
+        "date": "July 2023"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (B.TECH)",
+        "field": "Information Technology",
+        "institution": "Vishwakarma Institute of Information Technology, Pune",
+        "cgpa": 8.86,
+        "date": "May 2024"
+      },
+      {
+        "degree": "Senior Secondary (AISSCE)",
+        "institution": "Vikhe Patil Memorial School, Pune",
+        "percentage": 86.4,
+        "note": "Secured top rank in Physics",
+        "date": "April 2020"
+      }
+    ],
+    "core_competencies": [
+      "Adaptability",
+      "Leadership",
+      "Creativity",
+      "Resilience",
+      "Time Management",
+      "Organization"
+    ]
+  }
+  
